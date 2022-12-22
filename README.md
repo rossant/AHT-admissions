@@ -4,4 +4,3 @@ This repository contains an export of the data used by the paper by C. Rossant a
 
 * [Column descriptions](columns.md)
 * [CSV file](public-2022-12-20.csv) (export dated 20/12/2022)
-* 
