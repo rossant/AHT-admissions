@@ -1,0 +1,14 @@
+column ID,question (English translation),question (original question in French)
+C_CHILD_SEX,sex of the child,Sexe de l'enfant
+C_FOSTER,"how many months did the child removal last, if applicable?","Combien de mois a duré le placement, s'il y a lieu ?"
+C_FOSTER_OVER,"is the child removal over, if applicable?","Le placement est-il terminé, s'il y a lieu ?"
+C_HARDEST,was that the hardest ordeal of your life?,Cette épreuve est-elle/a-t-elle été la plus difficile de votre vie ?
+C_LENGTH,"total duration of the judicial proceedings, if they're over","Si toutes les procédures judiciaires sont terminées, combien d'années ont-elles duré au total ?"
+C_OVER,is your case over?,Votre dossier est-il définitivement terminé ?
+C_POLICE_BELIEVE_HARM,"have you been led to believe, during or after the police interrogation, that mild gestures you had could have involuntarily caused the child's symptoms?","En êtes-vous venu à penser, pendant ou après les interrogatoires, que des gestes peu violents et relativement anodins ont pu causer involontairement les symptômes de l'enfant ?"
+C_POLICE_CERTAIN,has the police presented the diagnosis of child abuse as absolutely certain and irrefutable?,Les enquêteurs vous ont-ils présenté le diagnostic de maltraitance comme absolument certain et irréfutable ?
+C_POLICE_CLAIM_CARE,have you been told that confessing to abuse would allow the doctors to better treat the child?,Vous a-t-on dit que reconnaître des faits de maltraitance permettraient aux médecins de mieux soigner ou de sauver l'enfant ?
+C_POLICE_CLAIM_MERCY,have you been told that confessing to abuse would let the justice be more lenient with you?,Vous a-t-on dit que reconnaître des faits de maltraitance rendrait la justice moins sévère à votre égard ?
+C_POLICE_CLAIM_MILD,have you been told that routine gestures you could have done on your child could cause the child's symptoms?,Vous a-t-on dit que des gestes anodins que vous aviez pu avoir sur l'enfant avaient pu causer les symptômes ?
+C_POLICE_RESUSCITATION,"did you declare having mildly shaken the child after a sudden collapse, to try to revive him or her?","Avez-vous déclaré avoir tenté de secouer légèrement l'enfant après son malaise, pour tenter de le ranimer ?"
+C_POLICE_SACRIFICE,"did you make voluntary false confessions in the hope of saving your spouse, or to let the child go back to the other parent?","Vous êtes-vous dénoncé(e) à tort dans l'espoir de sauver votre conjoint(e), ou de permettre à l'enfant de retourner chez votre conjoint(e) ?"
